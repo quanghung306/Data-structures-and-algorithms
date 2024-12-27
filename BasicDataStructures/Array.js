@@ -83,3 +83,6 @@ console.log(arr.includes(40)); // tìm kiếm xem phần tử có tồn tại tr
 var arr = ["Hello", "world"];
 let sentence = arr.join(" ");
 console.log("🚀 ~ sentence:", sentence);
+// tra ve gia tri lon nhat
+let Max= Math.max(6,2)
+console.log("🚀 ~ Max:", Max)
